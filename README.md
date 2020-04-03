@@ -1,0 +1,2 @@
+# lotto
+Created with CodeSandbox
